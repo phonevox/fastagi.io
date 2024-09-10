@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/gary-jipp/asterisk.io#readme",
   "dependencies": {
-    "asterisk.io": "^0.1.1"
+    "asterisk.io": "^0.1.1",
+    "colors": "^1.4.0"
   }
 }
